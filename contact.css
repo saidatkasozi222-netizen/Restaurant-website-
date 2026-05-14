@@ -1,0 +1,9 @@
+.body{
+    background-image: url(istockphoto-2171065539-1024x1024.jpg);
+}
+.T {
+    background-color: rgb(224, 241, 193);
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+}
