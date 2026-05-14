@@ -1,9 +1,10 @@
 .BODY{
-    background-color: black;
+    background-color: rgb(202, 222, 114);
+    text-align: center;
 }
 .T {
     background-color: rgb(224, 241, 193);
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 15px;
 }
