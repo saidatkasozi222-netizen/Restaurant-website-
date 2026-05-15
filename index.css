@@ -27,6 +27,7 @@
     color: blue;
 }
 .RESTAU{
+    font-size: 50px;
     color: aliceblue;
 }
 .list{
@@ -34,4 +35,10 @@
 }
 p{
     font-weight: bolder;
+}
+li{
+    font-size: 30px;
+}
+p{
+    font-size: 30px;
 }
