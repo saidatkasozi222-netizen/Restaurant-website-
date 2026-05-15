@@ -1,11 +1,13 @@
 .BUM {
-    background-image: url(IMG-20260513-WA0002.jpg);
+    background-image: url(food\ spaced.jpg);
     text-align: center;
     background-blend-mode: soft-light;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .T {
-    background-color: rgb(224, 241, 193);
+    background-color: rgb(198, 238, 206);
     display: flex;
     justify-content: space-around;
     padding: 15px;

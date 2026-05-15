@@ -1,12 +1,22 @@
 .BODY{
-    background-image: url(IMG-20260513-WA0002.jpg);
+    background-image: url(food\ spaced.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: lighten;
 }
 .T {
-    background-color: rgb(224, 241, 193);
+    background-color: rgb(193, 249, 216);
     display: flex;
     justify-content: space-around;
     padding: 15px;
 }
 p{
     font-weight: bolder;
+    font-display: block;
+    color: rgb(20, 20, 20);
+    word-spacing: normal;
+    text-align: center;
+}
+h2{
+    text-align: center;
 }
